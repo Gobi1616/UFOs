@@ -19,10 +19,9 @@ function buildTable(data) {
       Object.values(dataRow).forEach((val) => {
         let cell = row.append("td");
         cell.text(val);
-        }
-      );
+      });
     });
-}
+  }
 
 function handleClick() {
     // Grab the datetime value from the filter
