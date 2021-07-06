@@ -2,7 +2,17 @@
 
 ## Overview of Project
 
-We're making an HTML page for this project that will allow us to use filters on the website to pull information from a javascript data file. We want to use filters because we have a lot of various sightings around the United States, and we want to categorise them depending on where they happened and what type of sighting they were.
+### Background
+
+The homepage and dynamic table we created throughout the module are functioning OK, but Dana (our customer) has requested that the table be filtered even further. She would like to add the ability to filter by other column headers in addition to the date filter. We're making an HTML page for this project that will allow us to use filters on the website to pull information from a javascript data file. We want to use filters because we have a lot of various sightings around the United States, and we want to categorise them depending on where they happened and what type of sighting they were.
+
+### Objectives
+
+The goals of this challenge are to:
+
+- Create, update, and deploy JavaScript functions to provide additional table filters.
+- Update and deploy forEach (for loop) to loop through the filters and update them with user input.
+- Update and populate the dynamic filters and table using JavaScript and HTML
 
 ## Results
 
